@@ -5,7 +5,7 @@ This project explores the IBM HR Analytics Employee Attrition & Performance data
 ---
 
 ## 📊 Dashboard Preview
-*(Aap yahan apne Power BI dashboard ka screenshot add kar sakte hain: `screenshots/hr_dashboard.png`)*
+![hr analysis Preview]("F:\hr analysis.png")
 
 ---
 
