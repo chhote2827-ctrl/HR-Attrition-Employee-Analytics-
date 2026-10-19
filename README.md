@@ -5,7 +5,7 @@ This project explores the IBM HR Analytics Employee Attrition & Performance data
 ---
 
 ## 📊 Dashboard Preview
-(![HR Analytics Dashboard Preview](Screenshot%202026-10-18%20214823.png))
+![HR Analytics Dashboard Preview](Screenshot%202026-10-18%20214823.png)
 
 ---
 
